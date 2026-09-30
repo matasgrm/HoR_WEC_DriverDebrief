@@ -1,0 +1,14 @@
+{
+  "name": "Heart of Racing · Fuji Driver Debrief",
+  "short_name": "HoR Fuji",
+  "description": "Heart of Racing / Aston Martin Racing Fuji 2026 driver post-event debrief",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#031624",
+  "theme_color": "#031624",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
