@@ -1,4 +1,4 @@
-# HoR AMR Fuji 2026 Driver Debrief — Safari site
+# HoR AMR 2026 Driver Debrief — Safari site
 
 This folder is ready to upload as a static website. Drivers only need the HTTPS link in Safari; no TestFlight or app installation is required.
 
@@ -23,4 +23,4 @@ Open the HTTPS link in Safari. Optionally use **Share → Add to Home Screen**. 
 The current **Send to Engineers** button prepares an email addressed to `mgrigalauskas@prodrive.com` using the device's mail app. It does not send silently.
 
 ## Track map
-The embedded official WEC / Al Kamel Fuji circuit map is loaded from the Al Kamel website, so that map itself needs an internet connection unless it is later bundled locally.
+The embedded official WEC / Al Kamel circuit map is loaded from the Al Kamel website, so that map itself needs an internet connection unless it is later bundled locally.
